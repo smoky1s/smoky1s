@@ -6,8 +6,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanoliveira1728@gmail.com) 
 
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=smoky1s&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smoky1s&hide_progress=true&theme=tokyonight)
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=1ryann&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ryann&hide_progress=true&theme=tokyonight)
 
 ### 💼 Estagiando e Estudando
 
